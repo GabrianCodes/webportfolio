@@ -1,0 +1,55 @@
+#myname {
+	font-family: 'Gemunu Libre', sans-serif;
+}
+
+#mytitle {
+	font-family: 'Gemunu Libre', sans-serif;
+}
+
+#landing-parent {
+	background-color: #552020;
+}
+
+#projects {
+	background-color: #542B2B;
+}
+
+#tools {
+
+}
+
+#projects {
+	font-family: 'Orbitron', sans-serif;
+}
+
+.carddesc {
+	font-family: 'Oswald', sans-serif;
+}
+
+#introparagraph {
+	font-family: 'Gemunu Libre', sans-serif;
+	font-size: 1.2rem;
+}
+
+#contact {
+	background-color: #542B2B;
+}
+
+.orbitron {
+	font-family: 'Orbitron', sans-serif;
+}
+
+.gemunu {
+	font-family: 'Gemunu Libre', sans-serif;
+}
+
+.oswald {
+	font-family: 'Oswald', sans-serif;
+}
+
+.semiround {
+  border-radius: 4em
+}
+.semisemiround {
+  border-radius: 2em
+}
